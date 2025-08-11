@@ -146,15 +146,15 @@ export const SkillsInfo = [
 
   
   export const education = [
-    {
-      id: 0,
-      img: AKU,
-      school: "Aryabhatta Knowledge University, Patna",
-      date: "Sept 2022 - Aug 2025",
-      grade: "8.41 CGPA",
-      desc: "I have completed my Bachelore's degree (BCA) , from Aryabhatta Knowledge University, Patna.  in the  college of VVIT(Purnia). During my studies, I gained a solid foundation in computer applications, including programming languages, software development, and database management. The curriculum provided me with practical skills and theoretical knowledge that are essential for a career in the tech industry.",
-      degree: "Bachelore's of Computer Applications - BCA",
-    },
+    // {
+    //   id: 0,
+    //   img: AKU,
+    //   school: "Aryabhatta Knowledge University, Patna",
+    //   date: "Sept 2022 - Aug 2025",
+    //   grade: "8.41 CGPA",
+    //   desc: "I have completed my Bachelore's degree (BCA) , from Aryabhatta Knowledge University, Patna.  in the  college of VVIT(Purnia). During my studies, I gained a solid foundation in computer applications, including programming languages, software development, and database management. The curriculum provided me with practical skills and theoretical knowledge that are essential for a career in the tech industry.",
+    //   degree: "Bachelore's of Computer Applications - BCA",
+    // },
     {
       id: 1,
       img: vvit,
@@ -166,21 +166,21 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: cbse,
-      school: "Indian public school gulabagh (Purnia, Bihar)",
-      date: "Apr 2019 - March 2020",
-      grade: "60.2%",
-      desc: "I completed my class 10th education from Indian Public School, Purnia, under the CBSE board, where I studied Multiple Schools Subjects Applied by cbse.",
-      degree: "CBSE(X) ",
+      img: bseb,
+      school: "RKK College (Purnia, Bihar)",
+      date: "Apr 2020 - Feb 2022",
+      grade: "65%",
+      desc: "I completed my class 12th education from RKK College, Purnia, under the BSEB board, where I studied Science.",
+      degree: "BSEB(XII)-PHysics, Chemistry, Maths, English, Hindi",
     },
     {
       id: 3,
-      img: bseb,
-      school: "Rkk college Purnia (Bihar)",
-      date: "Apr 2020 - Fen 2022",
-      grade: "65%",
-      desc: "I completed my class 12th education from Rkk college, Purnia, under the BSEB board, where I studied Science.",
-      degree: "CBSE(XII)- Physics, Chemistry, Maths, English ,Hindi",
+      img: cbse,
+      school: "Indian Public School Purnia (Bihar)",
+      date: "Apr 2019 - March 2020",
+      grade: "60.2%",
+      desc: "I completed my class 10th education from Indian Public School Gulabbagh, Purnia, under the CBSE board, where I studied Multiple Subjects Applied By Boards.",
+      degree: "CBSE(X) - English, Sanskrit, Maths, Science, Social Science",
     },
   ];
   
