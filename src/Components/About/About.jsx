@@ -1,7 +1,7 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 import Tilt from "react-parallax-tilt";
-import ProfileImage from "../About/profileimage/sonu.jpg";
+import ProfileImage from "../About/ProfileImage/sonu.jpg"; // Adjust the path as necessary
 
 
 export const About = () => {
