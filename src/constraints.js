@@ -114,8 +114,10 @@ export const SkillsInfo = [
         "CSS",
         "JavaScript",
         "React JS",
-        "TypeScript",
         "Node JS",
+        "Express JS",
+        "Git",
+        "GitHub",
         "Tailwind CSS",
         "MongoDb",
         
