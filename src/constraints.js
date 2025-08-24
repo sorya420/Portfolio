@@ -199,12 +199,12 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "Spotifyclone",
+      title: "Personal music player",
       description:
         "A full-fledge music application. spotify clone where user login with there mobile number and email id and listening music for all day also set a premium feature for listening high-quality music",
       image: spotifyclone,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "",
+      tags: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/sorya420/personalmusicplayer",
       webapp: "",
     },
   ];
