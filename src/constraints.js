@@ -34,7 +34,8 @@ import bseb from './assets/education_logo/bseb_logo.png';
 
   import melodymatch from './assets/work_logo/melodymatch.png';
   import spotifyclone from './assets/work_logo/spotifyclone.png';
-  import frovershop from './assets/work_logo/frovershop.png';
+  import FroverShop from './assets/work_logo/FroverShop.png';
+  
 // import githubdetLogo from './assets/work_logo/github_det.png';
 // import csprepLogo from './assets/work_logo/cs_prep.png';
 // import movierecLogo from './assets/work_logo/movie_rec.png';
@@ -213,7 +214,7 @@ export const SkillsInfo = [
       title: "ForeverShop - A Ecommerce-App",
       description:
         "A full-featured E-commerce application designed to provide a seamless online shopping experience. The app allows users to browse products, add items to the cart, place orders, and make payments securely. It focuses on intuitive UI/UX, performance, and responsive design for a smooth shopping journey.",
-      image: frovershop.png,
+      image: FroverShop,
       tags: ["HTML", "CSS", "JavaScript", "React JS" ,"Vite","ExpressJs","MongoDb","Cloudinary", "API"],
       github: "https://github.com/sorya420/Ecommerce-App",
       webapp: "https://ecommerce-frontendd-three.vercel.app/",
