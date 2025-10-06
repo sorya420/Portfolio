@@ -34,7 +34,7 @@ import bseb from './assets/education_logo/bseb_logo.png';
 
   import melodymatch from './assets/work_logo/melodymatch.png';
   import spotifyclone from './assets/work_logo/spotifyclone.png';
-  import froverShop from './assets/work_logo/froverShop.png'
+  import froverShop from './assets/work_logo/froverShop.png';
 // import githubdetLogo from './assets/work_logo/github_det.png';
 // import csprepLogo from './assets/work_logo/cs_prep.png';
 // import movierecLogo from './assets/work_logo/movie_rec.png';
