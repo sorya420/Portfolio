@@ -207,5 +207,15 @@ export const SkillsInfo = [
       github: "https://github.com/sorya420/personalmusicplayer",
       webapp: "",
     },
+     {
+      id: 2,
+      title: "ForeverShop - A Ecommerce-App",
+      description:
+        "A full-featured E-commerce application designed to provide a seamless online shopping experience. The app allows users to browse products, add items to the cart, place orders, and make payments securely. It focuses on intuitive UI/UX, performance, and responsive design for a smooth shopping journey.",
+      image: FroverShop.png,
+      tags: ["HTML", "CSS", "JavaScript", "React JS" ,"Vite","ExpressJs","MongoDb","Cloudinary", "API"],
+      github: "https://github.com/sorya420/Ecommerce-App",
+      webapp: "https://ecommerce-frontendd-three.vercel.app/",
+    },
   ];
 
