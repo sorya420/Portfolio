@@ -201,13 +201,13 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "Personal music player",
+      title: "Spotify Clone",
       description:
         "A full-fledge music application. spotify clone where user login with there mobile number and email id and listening music for all day also set a premium feature for listening high-quality music",
       image: spotifyclone,
-      tags: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/sorya420/personalmusicplayer",
-      webapp: "",
+      tags: ["HTML", "CSS", "JavaScript" ,"React JS","Vite"],
+      github: "https://github.com/sorya420/Spotifyclone",
+      webapp: "https://spotifyclone-lilac-one.vercel.app",
     },
      {
       id: 2,
