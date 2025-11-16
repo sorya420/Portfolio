@@ -196,7 +196,7 @@ export const SkillsInfo = [
         "A powerful and user-friendly React.js application designed to uncover and showcase the outstanding experience for music lovers where users can login by their Emial and make friends on their music intrest and chat with them in personal and join music room to intract with multiple music lovers at a same time and listening same music based on their intrest.",
       image: melodymatch,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/sorya420/MelodyMatch",
+      github: "https://github.com/sorya420/melody-match-main",
       webapp: "https://melody-match-3wi6.onrender.com/",
     },
     {
